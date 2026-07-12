@@ -144,9 +144,6 @@ This project is created for educational and hackathon purposes.
 
 
 
-<div align="center">
+Made with ❤️ using typescript,css,Vite,motion 
 
 
-Made with ❤️ using typescript
-
-</div>
