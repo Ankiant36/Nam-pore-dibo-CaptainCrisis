@@ -1,0 +1,8 @@
+{
+  "name": "CaptainCrisis",
+  "description": "A clean, easy-to-use Class 7 helper dashboard to report class captain misbehavior, optimize classroom seating, clean up long study syllabuses, track stolen snacks, check class rulebooks, and send emergency corridor alarms in standard English and Bangla.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
