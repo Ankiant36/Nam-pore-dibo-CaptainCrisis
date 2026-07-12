@@ -133,7 +133,7 @@ export default function HeroPage({ t, lang, theme, setTheme, setLang, onLogin }:
           className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-emerald-500/20 bg-emerald-500/5 text-xs text-[#0D9488] font-bold tracking-wide shadow-inner"
         >
           <Sparkles className="w-3.5 h-3.5" />
-          <span>Class 7-B Student Coalition — Anti-Kuddus League</span>
+          <span>Student Alliance — Voice of the Students</span>
         </motion.div>
 
         {/* Heading Statement */}
