@@ -1,6 +1,6 @@
  📖 Overview
 
-Operation Save Class 7-B is an interactive AI-powered web platform created for a hackathon.
+Operation Save Class 7-B is an interactive AI-powered web platform created for student's welfare.
 
 The project imagines a fictional classroom where the class captain abuses power by forcing unnecessary rules, collecting illegal "washroom taxes", stealing tiffins, and creating impossible exam syllabuses.
 
@@ -8,9 +8,9 @@ Students use this platform to anonymously report corruption, generate optimized 
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🚩 Mission 1 — Anonymous Complaint Tracker
+##  Mission 1 — Anonymous Complaint Tracker
 
 - Submit complaints anonymously
 - Automatic warning system
@@ -19,7 +19,7 @@ Students use this platform to anonymously report corruption, generate optimized 
 
 ---
 
-## 🪑 Mission 2 — Smart Seating Planner
+##  Mission 2 — Smart Seating Planner
 
 - Height-based seating arrangement
 - Vision & hearing impairment priority
@@ -28,7 +28,7 @@ Students use this platform to anonymously report corruption, generate optimized 
 
 ---
 
-## 🤖 Mission 3 — AI Syllabus Negotiator
+##  Mission 3 — AI Syllabus Negotiator
 
 Powered by **Google Gemini AI**
 
@@ -43,7 +43,7 @@ Features:
 
 ---
 
-## 💰 Mission 4 — Corrupt Economy Dashboard
+##  Mission 4 — Corrupt Economy Dashboard
 
 Track:
 
@@ -55,7 +55,7 @@ Track:
 
 ---
 
-## 🚨 Mission 5 — SOS Rescue System
+##  Mission 5 — SOS Rescue System
 
 Students can instantly send SOS alerts from:
 
@@ -67,7 +67,7 @@ Students can instantly send SOS alerts from:
 
 ---
 
-## ✅ Mission 6 — Kuddus Fact Checker
+##  Mission 6 — Kuddus Fact Checker
 
 AI checks whether Captain Kuddus is telling the truth.
 
@@ -78,7 +78,7 @@ AI checks whether Captain Kuddus is telling the truth.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Frontend
 
@@ -94,7 +94,7 @@ AI checks whether Captain Kuddus is telling the truth.
 - Express.js
 
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 .
@@ -104,24 +104,16 @@ AI checks whether Captain Kuddus is telling the truth.
 ├── package.json
 ├── vite.config.ts
 └── README.md
-```
+
 
 ---
 
-# 🚀 Installation
+## Open Link
 
-Clone the repository
-
-```cmd
-npm run dev
+https://nam-pore-dibo-captaincrisis.onrender.com
 
 
-Open
-
-http://localhost:3000
-
-
-# 🌟 Future Improvements
+#  Future Improvements
 
 - User Authentication
 - Database Integration
@@ -132,18 +124,15 @@ http://localhost:3000
 
 ---
 
-# 👥 Team
-
-Developed with ❤️ for Hackathon 2026.
 
 ---
 
-# 📜 License
+#  License
 
 This project is created for educational and hackathon purposes.
 
 
 
-Made with ❤️ using typescript,css,Vite,motion 
+Made with passion using typescript,css,Vite,motion,Node.js,Express.js 
 
 
