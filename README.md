@@ -107,10 +107,12 @@ AI checks whether Captain Kuddus is telling the truth.
 
 
 ---
+# 🌐 Live Demo
 
-## Open Link
+> 🚀 **Experience the application live:**  
+> **https://nam-pore-dibo-captaincrisis.onrender.com**
 
-https://nam-pore-dibo-captaincrisis.onrender.com
+### 🔗 **[Launch Operation Save Class 7-B](https://nam-pore-dibo-captaincrisis.onrender.com)**
 
 
 #  Future Improvements
