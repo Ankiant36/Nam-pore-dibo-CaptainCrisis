@@ -1,20 +1,152 @@
+ 📖 Overview
+
+Operation Save Class 7-B is an interactive AI-powered web platform created for a hackathon.
+
+The project imagines a fictional classroom where the class captain abuses power by forcing unnecessary rules, collecting illegal "washroom taxes", stealing tiffins, and creating impossible exam syllabuses.
+
+Students use this platform to anonymously report corruption, generate optimized study plans, verify fake classroom rules, request emergency SOS assistance, and fight back using Artificial Intelligence.
+
+---
+
+# ✨ Features
+
+## 🚩 Mission 1 — Anonymous Complaint Tracker
+
+- Submit complaints anonymously
+- Automatic warning system
+- Strike counter
+- Captain impeachment detection
+
+---
+
+## 🪑 Mission 2 — Smart Seating Planner
+
+- Height-based seating arrangement
+- Vision & hearing impairment priority
+- AI classroom optimization
+- Line-of-sight analysis
+
+---
+
+## 🤖 Mission 3 — AI Syllabus Negotiator
+
+Powered by **Google Gemini AI**
+
+Features:
+
+- Smart syllabus cleaning
+- Remove non-examinable topics
+- AI Study Planner
+- Mock MCQ Generator
+- AI Study Notes
+- Voice Study Assistant
+
+---
+
+## 💰 Mission 4 — Corrupt Economy Dashboard
+
+Track:
+
+- Washroom tax
+- Tiffin theft
+- Calories stolen
+- Total illegal earnings
+- Funny financial analytics
+
+---
+
+## 🚨 Mission 5 — SOS Rescue System
+
+Students can instantly send SOS alerts from:
+
+- Classroom
+- Corridor
+- Library
+- Playground
+- Canteen
+
+---
+
+## ✅ Mission 6 — Kuddus Fact Checker
+
+AI checks whether Captain Kuddus is telling the truth.
+
+- Semantic rule matching
+- Confidence score
+- Official rulebook lookup
+- AI explanation
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+- React 19
+- TypeScript
+- Vite
+- CSS
+- Motion
+
+### Backend
+
+- Node.js
+- Express.js
+
+
+# 📂 Project Structure
+
+```
+.
+├── src/
+├── server.ts
+├── public/
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+---
+
+# 🚀 Installation
+
+Clone the repository
+
+```cmd
+npm run dev
+
+
+Open
+
+http://localhost:3000
+
+
+# 🌟 Future Improvements
+
+- User Authentication
+- Database Integration
+- Real-time Notifications
+- AI Voice Calls
+- Multiplayer Classroom Dashboard
+- Mobile App
+
+---
+
+# 👥 Team
+
+Developed with ❤️ for Hackathon 2026.
+
+---
+
+# 📜 License
+
+This project is created for educational and hackathon purposes.
+
+
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+
+Made with ❤️ using typescript
+
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/5be5dd3d-ccc4-48f6-a9a7-9eeba3449249
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
