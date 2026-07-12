@@ -55,8 +55,8 @@ export default function Mission3SyllabusNegotiator({
     {
       sender: "ai",
       text: lang === "en"
-        ? "Hey there! I am your Class 7-B AI Syllabus Companion. Click the microphone to talk, or write down your question. I will reply and speak back to you out loud!"
-        : "হে দোস্ত! আমি তোমার ক্লাস ৭-বি এর এআই সিলেবাস সহচর। কথা বলতে মাইক্রোফোনে চাপ দাও বা তোমার প্রশ্ন লেখো। আমি উত্তর মুখে বলে দেব!"
+        ? "Hey there! I am your AI Syllabus Companion. Click the microphone to talk, or write down your question. I will reply and speak back to you out loud!"
+        : "হে দোস্ত! আমি তোমার এআই সিলেবাস সহচর। কথা বলতে মাইক্রোফোনে চাপ দাও বা তোমার প্রশ্ন লেখো। আমি উত্তর মুখে বলে দেব!"
     }
   ]);
   const [chatInputText, setChatInputText] = useState("");
