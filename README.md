@@ -1,8 +1,11 @@
+
+## Captain Crisis 
+
  📖 Overview
 
-Operation Save Class 7-B is an interactive AI-powered web platform created for student's welfare.
+It's an interactive AI-powered web platform created for student's welfare.
 
-The project imagines a fictional classroom where the class captain abuses power by forcing unnecessary rules, collecting illegal "washroom taxes", stealing tiffins, and creating impossible exam syllabuses.
+The project potraits a classroom where the class captain abuses power by forcing unnecessary rules, collecting illegal "washroom taxes", stealing tiffins, and creating impossible exam syllabuses.
 
 Students use this platform to anonymously report corruption, generate optimized study plans, verify fake classroom rules, request emergency SOS assistance, and fight back using Artificial Intelligence.
 
@@ -107,13 +110,15 @@ AI checks whether Captain Kuddus is telling the truth.
 
 
 ---
-# 🌐 Live Demo
+#  Live Demo
 
-> 🚀 **Experience the application live:**  
-> **https://nam-pore-dibo-captaincrisis.onrender.com**
+### Try the application here:
 
-### 🔗 **[Launch Operation Save Class 7-B](https://nam-pore-dibo-captaincrisis.onrender.com)**
+**🔗 https://nam-pore-dibo-captaincrisis.onrender.com**
 
+or
+
+ **[Click here to open Operation Save Class 7-B](https://nam-pore-dibo-captaincrisis.onrender.com)**
 
 #  Future Improvements
 
