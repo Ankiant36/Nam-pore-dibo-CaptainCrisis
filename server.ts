@@ -498,15 +498,13 @@ User's query: "${message}"`;
     const isBn = lang === "bn" || /[\u0980-\u09FF]/.test(message);
     if (isBn) {
       const answers = [
-        "আমি তোমার সাথে আছি! কুদ্দুসের সিলেবাসে যে ফালতু জিনিস আছে তা বাদ দাও। শুধু কাজের পড়াগুলো পড়ো!",
-        "আরে ভয় পেয়ো না! আমরা ৭-বি এর বন্ধুরা সবাই মিলে কুদ্দুসের এই অত্যাচার রুখে দেব। মন দিয়ে পড়াশোনা করো।",
+        "বেশি নম্বর-প্রাপ্তি ও বেশি আসা বিষয়গুলো আগে পড়ুন। সবকিছু মুখস্থ না করে মূল ধারণাগুলো ভালোভাবে বুঝুন।গুরুত্বপূর্ণ প্রশ্ন ও পূর্ববর্তী বছরের প্রশ্ন অনুশীলন করুন।সূত্র, সংজ্ঞা, সারসংক্ষেপ বা গুরুত্বপূর্ণ পয়েন্টগুলো দ্রুত রিভিশন করুন।শেষে একটি সংক্ষিপ্ত রিভিশন দিয়ে পড়া বিষয়গুলো ঝালিয়ে নিন।পুরো সিলেবাস শেষ করার চেয়ে বেশি নম্বর পাওয়ার দিকে গুরুত্ব দিন।",
         "কুদ্দুস আমাদের ভয় দেখাতে চায় যাতে আমরা ওর কাছ থেকে টাকা দিয়ে নোট কিনি। আমরা তা করব না!"
       ];
       res.json({ response: answers[Math.floor(Math.random() * answers.length)] });
     } else {
       const answers = [
-        "Don't worry, buddy! Kuddus is just trying to intimidate us with this massive syllabus. We'll weed out the trash and win!",
-        "Keep your spirit high! Study only the core concepts and leave the non-examinable clutter out. We've got this!",
+        "Prioritize high-weight and frequently asked topics.Focus on understanding core concepts rather than memorizing everything.Practice important questions and previous exam papers.Review key formulas, definitions, summaries, or important points. Finish with a quick revision to reinforce what you've studied.Aim to maximize your score instead of covering every single detail.",
         "Remember, we don't buy notes from Kuddus. We study smart, help each other, and defeat his corruption!"
       ];
       res.json({ response: answers[Math.floor(Math.random() * answers.length)] });
